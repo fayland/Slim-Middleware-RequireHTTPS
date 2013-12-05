@@ -40,8 +40,6 @@ namespace Slim\Middleware;
 class RequireHTTPS extends \Slim\Middleware
 {
 
-    const VERSION = '0.0.1';
-
     public function call()
     {
         if ($this->app->environment['slim.url_scheme'] !== 'https' ) {

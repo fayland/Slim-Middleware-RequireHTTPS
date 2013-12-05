@@ -1,6 +1,6 @@
 {
     "name": "slim/slim-middleware-requirehttps",
-    "description": "redirect http to https",
+    "description": "Slim middleware: redirect http to https",
     "keywords": ["slim","middleware","https"],
     "homepage": "https://github.com/fayland/Slim-Middleware-RequireHTTPS",
     "license": "MIT",

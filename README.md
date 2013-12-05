@@ -1,7 +1,7 @@
 Slim-Middleware-RequireHTTPS
 ============================
 
-redirect http to https
+Slim middleware: redirect http to https
 
 ```
 $app = new \Slim\Slim();

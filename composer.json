@@ -1,5 +1,5 @@
 {
-    "name": "slim/slim-middleware-requirehttps",
+    "name": "fayland/slim-middleware-requirehttps",
     "description": "Slim middleware: redirect http to https",
     "keywords": ["slim","middleware","https"],
     "homepage": "https://github.com/fayland/Slim-Middleware-RequireHTTPS",
